@@ -5,7 +5,7 @@
       "title": "RoboRAVE Taiwan open 2025",
       "time": "2025 / 09 / 27 - 28",
       "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vTVgl5_R0FlmN6Wnl7cP91caLs3ZKthE0AYuUn9QeMyhNY1vA_fchCdNfGi7WXNMDiPrR_GJ_NncQ5p/pub?embedded=true",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vTJZp0F7KzBfQtvMN2669UrrCqN5KBmcVTufgRJTu2qsEP-t0yot8t34S4dDj4kUHi7ywS37eKwr6es/pub?embedded=true",
       "link1": "",
       "link2": "https://docs.google.com/forms/d/e/1FAIpQLScM_MT8LPo0aai4piWHMONjep8f9eAg-Zr0-uHLgaoO5NcUAQ/viewform?embedded=true"
     },
@@ -13,17 +13,77 @@
       "subtitle": "最新消息",
       "subtitle_class": "檢定培訓",
       "title": "Taichung Rally 2025 ",
-      "time": "2025 / 07 / 03",
+      "time": "2025 / 08 / 10",
       "time1": "2025 / 07 / 02",
       "link": "https://docs.google.com/document/d/e/2PACX-1vSxge3U9aj0WL9JNgko3m4JrCgkeedzD89lvYP9tsqqBPszDwZoCbolr682y_g5zvxL0EAhRiam92ZV/pub?embedded=true",
       "link1": "",
-      "link2": "https://docs.google.com/forms/d/e/1FAIpQLSev0T7EIcWbydQ4vi82CQsLptmMx20a8dsUiSfY8yaQjw1OVA/viewform?embedded=true"
+      "link2": ""
     },
     "card3": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
       "title": "Hsinchu Rally 2025",
-      "time": "2025 / 07 / 03",
+      "time": "2025 / 08 / 10",
+      "time1": "2025 / 07 / 02",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "link1": "",
+      "link2": ""
+    },
+    "card4": {
+      "subtitle": "最新消息",
+      "subtitle_class": "比賽資訊",
+      "title": "Taipei Rally 2025 (Past)",
+      "time": "2025 / 05 / 04",
+      "time1": "2025 / 07 / 02",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "link1": "",
+      "link2": ""
+    },
+    "card5": {
+      "subtitle": "最新消息",
+      "subtitle_class": "比賽資訊",
+      "title": "Taiwan Open 2024 (Past)",
+      "time": "2024 / 09 / 28 - 29",
+      "time1": "2025 / 07 / 02",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "link1": "",
+      "link2": ""
+    },
+    "card6": {
+      "subtitle": "最新消息",
+      "subtitle_class": "比賽資訊",
+      "title": "Taiwan Open 2023",
+      "time": "2024 / 12 / 17",
+      "time1": "2025 / 07 / 02",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "link1": "",
+      "link2": ""
+    },
+    "card7": {
+      "subtitle": "最新消息",
+      "subtitle_class": "比賽資訊",
+      "title": "Silicon Valley Open 2025(7/18-19)",
+      "time": "2025 / 07 / 18 - 19",
+      "time1": "2025 / 07 / 02",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "link1": "",
+      "link2": ""
+    },
+    "card8": {
+      "subtitle": "最新消息",
+      "subtitle_class": "比賽資訊",
+      "title": "敬請期待",
+      "time": "2025 /xx / xx",
+      "time1": "2025 / 07 / 02",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "link1": "",
+      "link2": ""
+    },
+    "card9": {
+      "subtitle": "最新消息",
+      "subtitle_class": "比賽資訊",
+      "title": "敬請期待",
+      "time": "2025 / xx / xx",
       "time1": "2025 / 07 / 02",
       "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
       "link1": "",

@@ -1,8 +1,12 @@
 {
-    "SUMOAuto": "rules/2024SUMOOPEN.pdf",
+    "LineFollow": "rules/Line_Following.pdf",
+    "SUMOAuto": "rules/2024SUMOAuto.pdf",
     "SUMORemote": "rules/2024SUMORemote.pdf",
     "SUMOpen": "rules/2024SUMOOPEN.pdf",
     "AlpineBot": "rules/2024AlpineBot.pdf",
     "FireFighting": "rules/2024FireFighting.pdf",
-    "LineFollowing": "rules/Line_Following.pdf"
+    "MiddleBot": "rules/2024MiddleBot.pdf",
+    "A-Maze":"rules/2024a-MAZE-ing.pdf",
+    "MovingMaster": "rules/2024MovingMaster.pdf",
+    "Entrepreneurial": "rules/2024Entrepreneurial.pdf"
 } 
