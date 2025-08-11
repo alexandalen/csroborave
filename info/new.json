@@ -3,91 +3,100 @@
       "subtitle": "最新消息",
       "subtitle_class": "營隊資訊",
       "title": "RoboRAVE Taiwan open 2025",
-      "time": "2025 / 09 / 27 - 28",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vTJZp0F7KzBfQtvMN2669UrrCqN5KBmcVTufgRJTu2qsEP-t0yot8t34S4dDj4kUHi7ywS37eKwr6es/pub?embedded=true",
-      "link1": "",
-      "link2": "https://docs.google.com/forms/d/e/1FAIpQLScM_MT8LPo0aai4piWHMONjep8f9eAg-Zr0-uHLgaoO5NcUAQ/viewform?embedded=true"
+      "time": "2025/09/27 - 28",
+      "time1": "2025/08/11 - 09/07 ",
+      "consentLink":"https://drive.google.com/uc?export=download&id=1M9yZNynry1qdEeBZvvonffdOg1MdTYuV" ,
+      "infoLink": "https://docs.google.com/document/d/e/2PACX-1vTJZp0F7KzBfQtvMN2669UrrCqN5KBmcVTufgRJTu2qsEP-t0yot8t34S4dDj4kUHi7ywS37eKwr6es/pub?embedded=true",
+      "fileDownload": "https://docs.google.com/spreadsheets/d/17HWhFciYg4p7i5E8FxolUfW3bMRbK09B/export?format=xlsx",
+      "registLink": "https://docs.google.com/forms/d/e/1FAIpQLSdkvmINmL_JY1HmvF7GtoqP-6GFIOxse5Cj5e31v6VJ8fjRIQ/closedform?embedded=true"
     },
     "card2": {
       "subtitle": "最新消息",
       "subtitle_class": "檢定培訓",
       "title": "Taichung Rally 2025 ",
-      "time": "2025 / 08 / 10",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vSxge3U9aj0WL9JNgko3m4JrCgkeedzD89lvYP9tsqqBPszDwZoCbolr682y_g5zvxL0EAhRiam92ZV/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "time": "2025/08/10",
+      "time1": "2025/06/18 ~ 07/02",
+      "consentLink":"" ,
+      "infoLink": "https://docs.google.com/document/d/e/2PACX-1vR9FR9PYvb07ngXU7-W_BkbnQwcHwtuEZcaPissyKsgOFiTS8xRbIdhoJ_P1ajCZH0RsmwBH9JCtQvN/pub?embedded=true",
+      "fileDownload": "",
+      "registLink": ""
     },
     "card3": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
       "title": "Hsinchu Rally 2025",
-      "time": "2025 / 08 / 10",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "time": "2025/08/10",
+      "time1": "2025/06/18 ~ 07/02",
+      "consentLink":"" ,
+      "infoLink": "https://docs.google.com/document/d/1snKOB0EO1I2RP50frTK0LJrXLGNovRONrDN2oUgdo0Y/edit?tab=t.0?embedded=true",
+      "fileDownload": "",
+      "registLink": ""
     },
     "card4": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
       "title": "Taipei Rally 2025 (Past)",
-      "time": "2025 / 05 / 04",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "time": "2025/05/04",
+      "time1": "已截止",
+      "consentLink":"" ,
+      "infoLink": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "fileDownload": "",
+      "registLink": ""
     },
     "card5": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
       "title": "Taiwan Open 2024 (Past)",
-      "time": "2024 / 09 / 28 - 29",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "time": "2024/09/28 - 29",
+      "time1": "已截止",
+      "consentLink":"" ,
+      "infoLink": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "fileDownload": "",
+      "registLink": ""
     },
     "card6": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
-      "title": "Taiwan Open 2023",
-      "time": "2024 / 12 / 17",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "title": "Taiwan Open 2023 (Past)",
+      "time": "2024/12/17",
+      "time1": "已截止",
+      "consentLink":"" ,
+      "infoLink": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "fileDownload": "",
+      "registLink": ""
     },
     "card7": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
-      "title": "Silicon Valley Open 2025(7/18-19)",
-      "time": "2025 / 07 / 18 - 19",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "title": "Silicon Valley Open 2025",
+      "time": "2025/07/18 - 19",
+      "time1": "已截止",
+      "consentLink":"" ,
+      "infoLink": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
+      "fileDownload": "",
+      "registLink": ""
     },
     "card8": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
       "title": "敬請期待",
-      "time": "2025 /xx / xx",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "time": "敬請期待",
+      "time1": "敬請期待",
+      "consentLink":"" ,
+      "infoLink": "",
+      "fileDownload": "",
+      "registLink": ""
     },
     "card9": {
       "subtitle": "最新消息",
       "subtitle_class": "比賽資訊",
       "title": "敬請期待",
-      "time": "2025 / xx / xx",
-      "time1": "2025 / 07 / 02",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vR1r5W5N8FfEeSvLXPlnHwKXIPUgAOiHqkvekMaxIvCBhMY5ZVIr6PtRa33MwdpCuIO2x_uHT4u7FvD/pub?embedded=true",
-      "link1": "",
-      "link2": ""
+      "time": "敬請期待",
+      "time1": "敬請期待",
+      "consentLink":"" ,
+      "infoLink": "",
+      "fileDownload": "",
+      "registLink": ""
     }
     
   }
