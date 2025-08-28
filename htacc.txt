@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Handle short URLs by redirecting to redirect.html with parameter
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/(css|js|images|favicon.ico)
+RewriteCond %{REQUEST_URI} !^/(index.html|redirect.html)
+RewriteRule ^([a-zA-Z0-9]+)/?$ /redirect.html?s=$1 [L]

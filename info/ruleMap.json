@@ -1,12 +1,13 @@
 {
-    "LineFollow": "rules/Line_Following.pdf",
-    "SUMOAuto": "rules/2024SUMOAuto.pdf",
-    "SUMORemote": "rules/2024SUMORemote.pdf",
-    "SUMOpen": "rules/2024SUMOOPEN.pdf",
-    "AlpineBot": "rules/2024AlpineBot.pdf",
-    "FireFighting": "rules/2024FireFighting.pdf",
+    "LineFollowOpen": "https://drive.google.com/file/d/1XjuctZYnFRGFh0Os-GHunZtR6svKckqK/preview",
+    "LineFollowRegular": "https://drive.google.com/file/d/1RDHCjDeQjYWpgjqAdV74Ttj0LJDifua_/preview",
+    "SUMOAuto": "https://drive.google.com/file/d/1LrKPOIiwLerR3uLEiExLskLc-8wMrtol/preview",
+    "SUMORemote": "https://drive.google.com/file/d/1N5o8sBy05eMq4j0NwIcYCSYuVKejJex4/preview",
+    "SUMOpen": "https://drive.google.com/file/d/1Oz3l1SyF3qWSRkR-i4B2nsx9g1o9AeY8/preview",
+    "AlpineBot": "https://drive.google.com/file/d/1KpF7vrdJudtw9pocxX01fdAVlETBxQJM/preview",
+    "FireFighting": "https://drive.google.com/file/d/1maWL2l__3sxGvDIWPeEXzngczvcCPm2g/preview",
     "MiddleBot": "rules/2024MiddleBot.pdf",
-    "A-Maze":"rules/2024a-MAZE-ing.pdf",
-    "MovingMaster": "rules/2024MovingMaster.pdf",
+    "A-Maze":"https://drive.google.com/file/d/17CKCiIjfyE6OoWRpnFzGk3MWNeOUMJCM/preview",
+    "CableCar": "https://drive.google.com/file/d/13IKgGoosDahFIAt-f3omQ3Q-jG5rmz5d/preview",
     "Entrepreneurial": "rules/2024Entrepreneurial.pdf"
 } 
